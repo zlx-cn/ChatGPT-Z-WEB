@@ -340,16 +340,16 @@ export const ChatInput = ({
       </div>
       <div className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
         <a
-          href="https://github.com/sxqib/ChatGPT-with-Plugins"
+          href="https://zlx3-4-1.zlx-cn2.repl.co/AI-ChatGPT.html"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          ChatGPT with Plugins
+          ChatGPT X ZLX-WEB
         </a>
         .{' '}
         {t(
-          "ChatGPT may produce inaccurate information about people, places, or facts.",
+          "本站由Z网络负责，有任何问题请联系微信：zhanglianxin233.",
         )}
       </div>
     </div>
