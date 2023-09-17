@@ -80,8 +80,7 @@ export const PluginKeys = () => {
                 <div className="mt-6 rounded border p-4">
                   <div className="text-xl font-bold">Google Search Plugin</div>
                   <div className="mt-4 italic">
-                    Please enter your Google API Key and Google CSE ID to enable
-                    the Google Search Plugin.
+                   请输入您的谷歌api密钥和谷歌ID以启用谷歌搜索。
                   </div>
 
                   <div className="mt-6 text-sm font-bold text-black dark:text-neutral-200">
@@ -214,7 +213,7 @@ export const PluginKeys = () => {
                       }
                     }}
                   >
-                    Clear Google Search Plugin Keys
+                   清除谷歌搜索插件密钥
                   </button>
                 </div>
 
@@ -223,7 +222,7 @@ export const PluginKeys = () => {
                   className="mt-6 w-full rounded-lg border border-neutral-500 px-4 py-2 text-neutral-900 shadow hover:bg-neutral-100 focus:outline-none dark:border-neutral-800 dark:border-opacity-50 dark:bg-white dark:text-black dark:hover:bg-neutral-300"
                   onClick={() => setIsChanging(false)}
                 >
-                  {t('Save')}
+                  {t('保存')}
                 </button>
               </div>
             </div>
